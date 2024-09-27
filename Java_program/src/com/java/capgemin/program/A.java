@@ -6,6 +6,8 @@ public class A {
     int c;
     public int division(){
         c=a/b;
+        System.out.println("test");
         return c;
+
     }
 }
